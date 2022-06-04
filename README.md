@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @imtiaz
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning java,DSA,full Stack Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning java,DSA,Full Stack Development
+- 📫 You can reach me via https://www.linkedin.com/in/mohammad-imtiaz-570781138/ ...
 
 <!---
 imtiazalisultan/imtiazalisultan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
