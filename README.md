@@ -1,4 +1,4 @@
-[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)]
+[![MasterHead](https://i.gifer.com/2MgJ.gif)]
 <h1 align="center">Hi 👋, I'm Mohammad Imtiaz</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/LightConstantBuckeyebutterfly-size_restricted.gif"/>
