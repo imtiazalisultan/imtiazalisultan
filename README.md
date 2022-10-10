@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtiazalisultan" alt="imtiazalisultan" /></a> </p>
 
-- 🔭 I’m currently working on **Gmail Clone**
+- 🔭 I’m currently working on **MERN STACK projects**
 
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently learning **NODE-JS, MongoDB**
 
 - 💬 Ask me about **MERN**
 
