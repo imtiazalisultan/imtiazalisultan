@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif)]
 <h1 align="center">Hi 👋, I'm Mohammad Imtiaz</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/DBqjevyA2o4AAAAC/bongo-cat-codes.gif"/>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fes%2Fver%2F%25EC%25B5%259C%25EC%2598%2588%25EB%2582%2598-choi-yena-%25ED%2594%2584%25EB%25A1%259C%25EB%2593%2580%25EC%258A%25A448-produce48-%25EC%259C%2584%25EC%2597%2590%25ED%2599%2594-gif-872189226467252878&psig=AOvVaw1TPaf-yN-MLPs1uRtRXpAg&ust=1666451615613000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOD4s5fO8foCFQAAAAAdAAAAABAR"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiazalisultan&label=Profile%20views&color=0e75b6&style=flat" alt="imtiazalisultan" /> </p>
 
