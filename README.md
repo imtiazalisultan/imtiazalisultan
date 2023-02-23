@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **imtiazalisultan@gmail.com**
+- 📫 How to reach me **mohammedimtiaz2011@gmail.com**
 
 - ⚡ Fun fact **I think i am Funny**
 
