@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **MERN STACK projects**
 
-- 🌱 I’m currently learning **NODE-JS, MongoDB**
+- 🌱 I’m currently learning **Devops,Blockchain**
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **mohammedimtiaz2011@gmail.com**
+- 📫 How to reach me **imtiazalisultan@gmail.com**
 
 - ⚡ Fun fact **I think i am Funny**
 
